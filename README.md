@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Burkifa23
-- 👀 I’m interested in learning how to code in python, c++, c#, golang and javascript language.
-- 🌱 I’m currently learning python and javascript
+- 👀 I’m interested in learning how to code in python, c++, c#, Javascript and Flutter.
+- 🌱 I’m currently learning python and flutter
 - 💞️ I’m looking to collaborate on any coding project
-- 📫 How to reach me on ig frank.2.played_it
+- 📫 How to reach me on ig kwizerafrank23@gmail.com
 
 
 <!---
