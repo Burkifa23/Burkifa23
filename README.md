@@ -11,6 +11,7 @@
 | Rust (Tauri) | .NET MAUI & Xamarin | Typescript & Javascript | Spring | Lua (LÖVE2D) |
 | Java (Swing & JavaFX | React Native | Blazor & .NET MAUI| Golang |Javascript (Kaboom.Js)|
 
+_“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare.
 -  💞️ I’m looking to collaborate on any coding project.
 
 - 📫 Reach out on Gmail kwizerafrank23@gmail.com
