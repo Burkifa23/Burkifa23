@@ -9,7 +9,7 @@
 | C# (WFP, .NET MAUI) | Kotlin | Svelte & Sveltekit | ASP.NET | C# (Unity, Godot) | NOSQL: MongoDB, Redis |
 | Python (Tkinter, pyQt, Flet) | Flutter | Tailwind CSS Bootstrap & SASS | Django | python(Pygame, Ursina)| GraphQL |
 | Flutter Desktop | .NET MAUI & Xamarin | Typescript & Javascript | Spring Boot 3| Lua (LÖVE2D) | R |
-| Java (Swing & JavaFX | React Native | Blazor & .NET MAUI| Golang && Rust |Javascript (Kaboom.Js, WebGL)| Python Pandas & Matplotlib|
+| Java (Swing & JavaFX | React Native | Blazor & .NET MAUI| Golang && Rust |Javascript (KaplayJs, WebGL)| Python Pandas & Matplotlib|
 
 _“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare. 
 -  💞️ I’m looking to collaborate on any coding project.
