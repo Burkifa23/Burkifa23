@@ -1,22 +1,22 @@
 - 👋 Hi, I’m Frank from Rwanda.
-- I love Music. I play 🎷 and 🎸. 
-- 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana. Finishing 2027.
-- I am currently learning and developing in these technologies:
+- 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
+- I am currently learning these technologies:
 ---
-| Desktop Applications | Android Mobile development| Front Web Development| Backend Web Developmet | Game Development | Data Analysis |
+| Desktop Applications | Mobile development| Front Web Development| Backend Web Developmet | Game Development | Data |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| C++ (Qt, WxWidgets) | Java | ReactJs | Nextjs & NodeJS | C & C++ (Raylib, SDL2, OpenGL or Vulkan, SFML, Unreal Engine, Godot) | RDBMS: PostgreSQL, MySQL, SQLite, Microsoft SQL Server|
-| C# (WFP, .NET MAUI) | Kotlin | Svelte & Sveltekit | ASP.NET | C# (Unity, Godot) | NOSQL: MongoDB, Redis |
-| Python (Tkinter, pyQt, Flet) | Flutter | Tailwind CSS Bootstrap & SASS | Django | python(Pygame, Ursina)| GraphQL |
-| Flutter Desktop | .NET MAUI & Xamarin | Typescript & Javascript | Spring Boot 3| Lua (LÖVE2D) | R |
-| Java (Swing & JavaFX | React Native | Blazor & .NET MAUI| Golang && Rust |Javascript (KaplayJs, WebGL)| Python Pandas & Matplotlib|
+| C++ (Qt, WxWidgets) | Java | ReactJs | NextJS & Node | C & C++ (Raylib, SDL2, OpenGL, Vulkan, Unreal Engine, Godot) | RDBMS: PostgreSQL, MySQL, SQLite, Microsoft SQL Server|
+| C# (WFP, .NET MAUI) | Kotlin Multiplatform | Svelte | ASP.NET | C# (Unity, Godot) | NOSQL: MongoDB, Redis |
+| Python (Tkinter, pyQt, Flet) | Flutter | Angular | Django | python(Pygame, Ursina)| PowerBI |
+| Java (Swing & JavaFX) | .NET MAUI | HTMX | Spring Boot | Lua (LÖVE2D) | R |
+| Flutter Desktop | React Native | Blazor | Go  |Javascript (KaplayJs, WebGL)| Python (Pandas & Matplotlib) |
+| Kotlin Multiplatform | Swift | Vue w/ NUXT| Rust | Rust (Bevy) | Firebase && Supabase |
 
 _“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare. 
 -  💞️ I’m looking to collaborate on any coding project.
 
-- 📫 Reach out on Gmail kwizerafrank23@gmail.com
-- 💬 Message me on my ![Static Badge](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Ffrank.2.played_it%2F)
- @frank.2.played_it
+- 📫 Reach out on Gmail at kwizerafrank23@gmail.com
+- 💬 Message me on my![Static Badge](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Ffrank.2.played_it%2F)
+ @frank.2.played_it to get in touch.
 
 
 [![Burkifa23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&theme=transparent)
