@@ -13,10 +13,77 @@
     </a>
 </div>
 
-# <img src="https://github.com/programmer-233.png" alt="programmer-233" height="32" />    Hey there 👋 I’m Frank from Rwanda.
+# <img src="https://github.com/burkifa23.png" alt="programmer-233" height="32" /> Hey there 👋 I’m Frank from Rwanda.
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=600&lines=Computer+Scientist;Linux+Enthusiast;Fullstack+Software+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
 - I am currently learning these technologies:
+<details open="">
+    <br>
+    <div align="center">
+        <h1><b>Game Development</b></h1>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" height="92" width="92" alt="unreal Engine"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height="92" width="92" alt="Godot"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="92" width="92" alt="Unity"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="92" width="92" alt="Lua"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="92" width="92" alt="OpenGL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" height="92" width="92" alt="SDL"/>    
+    </div>
+    <br>
+    <div align="center">
+        <h1>Editor & IDE I use:</h1>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" height="92" width="92" alt="Neovim"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="92" width="92" alt="Vscode"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="92" width="92" alt="VStudio"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="92" width="92" alt="CLion"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="92" width="92" alt="Webstorm"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="92" width="92" alt="IntelliJ"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" height="92" width="92" alt="Eclipse"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" height="92" width="92" alt="Android Studio"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="92" width="92" alt="Arduino"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" height="92" width="92" alt="Blender"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" height="92" width="92" alt="GoLand"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="92" width="92" alt="PyCharm"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="92" width="92" alt="QT"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" height="92" width="92" alt="Rider"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="92" width="92" alt="Vi"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="92" width="92" alt="XCode"/>
+    </div>
+    <br>
+    <div align="center">
+        <h1>Languages am interested in:</h1>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/carbon/carbon-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original-wordmark.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original-wordmark.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nim/nim-original-wordmark.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="92" width="92"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original-wordmark.svg" height="92" width="92"/>
+    </div>
+    <br>
+    <div align="center">
+        <h1>Platforms I develop for:</h1>
+            <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=000000" height="92" width="92"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="92" width="92"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="92" width="92"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="92" width="92"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="92" width="92"/>
+    </div>
+</details>
+
+<!--
+
+
 ---
 | Desktop Applications |  Mobile development| Front Web Development| Backend Web Developmet | Data Management |
 |:--:|:--:|:--:|:--:|:--:|
@@ -26,7 +93,6 @@
 | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) (Swing & JavaFX) | .NET MAUI | ![Wordpress](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg)  | ![R](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg) |
 | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg) | ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) | ![Blazor](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg) | ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)  | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg) |
 | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg) | ![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg) | ![Vue](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg) ![NUXTJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg)| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg) | ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg) && ![Supabase](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg) |
-
 | Game Development |
 |:--:|
 | ![Unreal Engine](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg) |
@@ -35,8 +101,6 @@
 | ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg) |
 | ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg) |
 |![ThreeJs](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg)|
-
-<!--
 ## Desktop Applications
 |Techonology | Projects|
 |:--:|--:|
@@ -46,7 +110,6 @@
 |![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)| Link: |
 |![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)| Link: |
 |![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg)| Link: |
-
 ## Mobile development
 |Techonology | Projects|
 |:--:|--:|
@@ -55,13 +118,11 @@
 | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg) | Link: |
 | ![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg)| Link: |
 | ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)| Link: |
-
 ## Game Development
 |Techonology | Projects|
 |:--:|--:|
 |![Unreal Engine](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg)| Link: |
 |![Godot](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg)| Link: |
-
 ## DBMS
 |Techonology | Projects|
 |:--:|--:|
@@ -69,13 +130,10 @@
 | ![Microsoft SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg)| Link: |
 | ![MYSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)| Link: |
 | ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg)| Link: |
-
 #### NoSQL
 |Techonology | Projects|
 |:--:|--:|
 |![Mondodb](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg)| Link: |
-
-
 ## Backend
 |Techonology | Projects|
 |:--:|--:|
@@ -83,12 +141,12 @@
 | |Lin
 -->
 
+_“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare.
 
-_“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare. 
--  💞️ I’m looking to collaborate on any coding project.
+- 💞️ I’m looking to collaborate on any coding project.
 
+<!--
 <h1 align="left"><u>Contact me</u></h1>
-
 <table>
     <tbody>
         <tr>
@@ -107,10 +165,31 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
         </tr>
     </tbody>
 </table>
+-->
 
-# Status:
-![Burkifa23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&theme=transparent)
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=burkifa23&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burkifa23" />
+# Contact me
+
+<p aligned="center">
+    <a href="https://telegram.me/Burkifa23">
+        <img src="https://img.icons8.com/?size=100&id=F4ZPUh2Mk5tk&format=png&color=000000" height="64" width="64" alt="Message me on Telegram" />
+    </a>     
+    <a href="www.linkedin.com/in/frank-kwizera-mugwaneza-24951b234">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="64" width="64" alt="Click to connect on LinkedIn"/>
+    </a>
+    <a href="https://x.com/burkifa23">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="64" width="64" alt="Tweet?"/>
+    </a>
+    <a href="https://www.instagram.com/frank.2.played_it/">
+        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="Instagram" />
+    </a>
+</p>
+🖱️Click on the icon.
+        
+# Github Analytics:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&theme=transparent" alt="Burkifa23's GitHub stats"/>
+    <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=burkifa23&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burkifa23" />
+</p>
 <!---
 Burkifa23/Burkifa23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
