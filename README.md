@@ -285,6 +285,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="92" width="92" alt="Arch Linux"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="92" width="92" alt="Debian"/>                    
           </p>
+          
+<img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
+
 <!---
 Burkifa23/Burkifa23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
