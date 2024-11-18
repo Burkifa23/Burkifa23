@@ -54,7 +54,7 @@
         </details>
     </div>  
     <div align="center">
-        <h1>Languages am interested in:</h1>
+        <h1>Languages I'm interested in:</h1>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="92" width="92"/>                    
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="92" width="92"/>
