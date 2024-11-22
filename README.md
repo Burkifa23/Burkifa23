@@ -22,9 +22,11 @@
 </p>
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
-- I am currently learning these technologies:
 
-    <div align="center">
+
+<img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
         <h1><b>Game Development</b></h1>
         <p>The reason why I started programming.</p>
             <details open="">
@@ -286,7 +288,7 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="92" width="92" alt="Debian"/>                    
           </p>
           
-<img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
+
 
 <!---
 Burkifa23/Burkifa23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
