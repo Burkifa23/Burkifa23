@@ -22,6 +22,10 @@
 </p>
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
+- I am currently working on contributing African Languages on Open Source Projects.
+I started with:
+- Link to repo ⭐ [Sabbath School & PM](https://github.com/Burkifa23/sabbath-school-lessons)  Available on iOS, Android & [Web](https://sabbath-school.adventech.io/kin).
+  
 
 
 <img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
