@@ -13,12 +13,18 @@
     </a>
 </div>
 
-# <img src="https://github.com/burkifa23.png" alt="programmer-233" height="32" /> Hey there 👋 I’m Frank from Rwanda.
+# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋 I’m Frank from Rwanda.
               
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=600&lines=Computer+Scientist;Linux+Distro+Hopper;Software+Engineer" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/burkifa23"/>
+</a>
 </p>
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
