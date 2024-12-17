@@ -31,6 +31,7 @@
 - I am currently working on contributing African Languages on Open Source Projects.
 I started with:
 - Link to repo ⭐ [Sabbath School & PM](https://github.com/Burkifa23/sabbath-school-lessons)  Available on iOS, Android & [Web](https://sabbath-school.adventech.io/kin).
+- I am building a portfolio website.
   
 
 
