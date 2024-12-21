@@ -39,21 +39,6 @@ I started with:
 <img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-        <h1><b>Path from Data Analysis to AI</b></h1>
-        <details open="">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" height="92" width="92" alt="D3JS"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92" alt="Python"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="92" width="92" alt="Pandas"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="92" width="92" alt="NumPy"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="92" width="92" alt="R"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="92" width="92"alt="Matplotlib"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="92" width="92" alt="PyTorch"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="92" width="92" alt="TensorFlow"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="92" width="92" alt="Scikit Learn"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="92" width="92" alt="OpenCV"/>
-        </details>
-    </div>  
-<div align="center">
         <h1>Languages I'm interested in:</h1>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="92" width="92"/>                    
@@ -101,7 +86,13 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&theme=transparent" alt="Burkifa23's GitHub stats"/>
     <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=burkifa23&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burkifa23" />
+        
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Burkifa23&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Burkifa23&column=3&margin-w=15&margin-h=15)
+
 
 
 <!---
