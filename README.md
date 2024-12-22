@@ -62,8 +62,6 @@ I started with:
 
 _“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare.
 
-- 💞️ I’m looking to collaborate on any coding project.
-
 # Contact me
 
 <p aligned="center">
