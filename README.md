@@ -13,7 +13,7 @@
     </a>
 </div>
 
-# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋 I’m Frank from Rwanda.
+# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋🏽 I’m Frank from Rwanda.
               
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,6 +28,7 @@
 </p>
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
+- I'm in my training arc.
 - Visit my Portfolio [portfolio website](https://burkifa23.github.io/). Repo ⭐: https://github.com/Burkifa23/burkifa23.github.io
 - I am currently working on contributing African Languages on Open Source Projects.
 I started with:
