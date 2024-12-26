@@ -88,8 +88,8 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
         
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Burkifa23&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=burkifa23&theme=tokyonight)
+  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Burkifa23&column=3&margin-w=15&margin-h=15)
 
 
