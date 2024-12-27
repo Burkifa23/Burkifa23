@@ -32,7 +32,8 @@
 - Visit my Portfolio [portfolio website](https://burkifa23.github.io/). Repo ⭐: https://github.com/Burkifa23/burkifa23.github.io
 - I am currently working on contributing African Languages on Open Source Projects.
 I started with:
-- Link to repo ⭐ [Sabbath School & PM](https://github.com/Burkifa23/sabbath-school-lessons)  Available on iOS, Android & [Web](https://sabbath-school.adventech.io/kin).
+- Link to repo ⭐ [Sabbath School & PM](https://github.com/Burkifa23/sabbath-school-lessons)  Available on [iOS](https://apps.apple.com/us/app/sabbath-school-pm/id895272167), [Android](https://play.google.com/store/apps/details?id=com.cryart.sabbathschool&pcampaignid=web_share) & [Web](https://sabbath-school.adventech.io/kin).
+- Link to repo ⭐ [Christ In Song Multi-Language](https://github.com/Burkifa23/cis-hymnals) Available on [iOS](https://apps.apple.com/us/app/christ-in-song-multi-language/id1067718185) and [Android.](https://play.google.com/store/apps/details?id=com.tinashe.christInSong&pcampaignid=web_share)
 
   
 
@@ -82,9 +83,14 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 🖱️Click on the icon.
         
 # Github Analytics:
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Burkifa23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&theme=transparent" alt="Burkifa23's GitHub stats"/>
     <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=burkifa23&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burkifa23" />
+
         
 </p>
 
