@@ -95,10 +95,10 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&bg_color=00000000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&bg_color=00000000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Burkifa23&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Burkifa23&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
 </a>
 
 
