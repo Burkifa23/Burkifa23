@@ -90,8 +90,6 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Burkifa23&show_icons=true&theme=transparent" alt="Burkifa23's GitHub stats"/>
     <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=burkifa23&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burkifa23" />
-
-        
 </p>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=burkifa23&theme=tokyonight)
