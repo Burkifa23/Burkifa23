@@ -29,14 +29,14 @@
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
 - I'm in my training arc.
-- Visit my Portfolio [portfolio website](https://burkifa23.github.io/). Repo ⭐: https://github.com/Burkifa23/burkifa23.github.io
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+- Visit my Portfolio [portfolio website](https://burkifa23.github.io/).
+
+  
+[![Burkifa23's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/burkifa23.github.io)
 - I am currently working on contributing African Languages on Open Source Projects.
 I started with:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=sabbath-school-lessons&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=cis-hymnals&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Sabbath School Lessons & PM](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=sabbath-school-lessons&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/sabbath-school-lessons)
+[![Christ In Song](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=cis-hymnals&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/cis-hymnals)
 
 - Link to repo ⭐ [Sabbath School & PM](https://github.com/Burkifa23/sabbath-school-lessons)  Available on [iOS](https://apps.apple.com/us/app/sabbath-school-pm/id895272167), [Android](https://play.google.com/store/apps/details?id=com.cryart.sabbathschool&pcampaignid=web_share) & [Web](https://sabbath-school.adventech.io/kin).
 - Link to repo ⭐ [Christ In Song Multi-Language](https://github.com/Burkifa23/cis-hymnals) Available on [iOS](https://apps.apple.com/us/app/christ-in-song-multi-language/id1067718185) and [Android.](https://play.google.com/store/apps/details?id=com.tinashe.christInSong&pcampaignid=web_share)
