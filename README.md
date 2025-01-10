@@ -103,7 +103,7 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 </a>
 
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=burkifa23&&theme=transparent)
+
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=Burkifa23&no-bg=true)
 
