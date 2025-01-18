@@ -30,7 +30,7 @@
 
 - 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
 - I'm in my training arc.
-- Visit my Portfolio [portfolio website](https://burkifa23.github.io/).
+- Visit my [portfolio website](https://burkifa23.github.io/).
 
   
 [![Burkifa23's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/burkifa23.github.io)
