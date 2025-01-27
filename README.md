@@ -34,6 +34,9 @@
 
   
 [![Burkifa23's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/burkifa23.github.io)
+
+[![Burkifa23's Network](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=list-all-followers-and-following&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/list-all-followers-and-following)
+
 - I am currently working on contributing African Languages on Open Source Projects.
 I started with:
 [![Sabbath School Lessons & PM](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=sabbath-school-lessons&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/sabbath-school-lessons)
