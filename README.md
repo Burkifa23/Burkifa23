@@ -115,7 +115,7 @@ I plan to be a jack of trade!
 <p align="center">
   <a>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Burkifa23&theme=transparent&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Burkifa23&theme=react&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="95%" alt="activity graph">
   </a>
 </p>
