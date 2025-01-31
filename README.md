@@ -106,7 +106,7 @@ I plan to be a jack of trade!
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Burkifa23&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
 </a>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Burkifa23&theme=transparent&hide_border=false)](https://git.io/streak-stats)
 
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=Burkifa23&no-bg=true)
