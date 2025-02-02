@@ -73,7 +73,7 @@ I started with:
     <br>
 
 _“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare.
-I plan to be a jack of trade!
+I plan to be a jack of trade.
 
 # Contact me
 
