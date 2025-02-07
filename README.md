@@ -28,7 +28,8 @@
 </a>
 </p>
 
-- 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana.
+- 🌱 I’m studying for a BSc in Computer Science at Valley View University, Ghana. 
+- My Student GitHub is [Programmer-233](https://github.com/Programmer-233)
 - I'm in my training arc.
 - Visit my [portfolio website](https://burkifa23.github.io/).
 - I work Mostly On Open Source Projects on this Account.
