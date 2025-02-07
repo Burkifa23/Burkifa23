@@ -13,7 +13,7 @@
     </a>
 </div>
 
-# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋🏽 I’m Frank from Rwanda.
+# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋🏽 I’m Frank from Rwanda. AKA Programmer-233 
               
 <p align="center">
   <a href="https://git.io/typing-svg">
