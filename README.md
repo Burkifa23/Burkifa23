@@ -33,6 +33,7 @@
 - I'm in my training arc.
 - Visit my [portfolio website](https://burkifa23.github.io/).
 - I work Mostly On Open Source Projects on this Account.
+- A Top GitHub User in Ghana!
 
   
 [![Burkifa23's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/burkifa23.github.io)
