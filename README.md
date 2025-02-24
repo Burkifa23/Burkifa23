@@ -54,7 +54,7 @@ I started with:
 <img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-        <h1>Languages I'm interested in:</h1>
+        <h1>Languages I use:</h1>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="92" width="92"/>                    
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="92" width="92"/>
