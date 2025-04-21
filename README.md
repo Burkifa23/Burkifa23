@@ -33,13 +33,15 @@
 - I'm in my training arc.
 - Visit my [portfolio website](https://burkifa23.github.io/).
 - I work Mostly On Open Source Projects on this Account.
-- A Top GitHub User in Ghana!
 
-[![committers.top badge](https://user-badge.committers.top/ghana/Burkifa23.svg)](https://user-badge.committers.top/ghana/Burkifa23)
+[![committers.top badge](https://user-badge.committers.top/ghana/Burkifa23.svg)](https://user-badge.committers.top/ghana/Burkifa23) In Ghana
   
 [![Burkifa23's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/burkifa23.github.io)
 
 [![Burkifa23's Network](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=list-all-followers-and-following&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/list-all-followers-and-following)
+[![Burkifa23 Syntaxed](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=syntaxed&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/Syntaxed)
+
+
 
 - I am currently working on contributing African Languages on Open Source Projects.
 I started with:
