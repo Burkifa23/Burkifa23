@@ -118,6 +118,11 @@ I plan to be a jack of trade.
 ![trophy](https://github-profile-trophy.vercel.app/?username=Burkifa23&no-bg=true)
 
 
+## 💾 Github Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <p align="center">
   <a>
     <img
