@@ -114,7 +114,10 @@ I plan to be a jack of trade.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Burkifa23&theme=transparent&hide_border=false)](https://git.io/streak-stats)
 
-  
+<a href="https://github.com/Burkifa23" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burkifa23&theme=github_dark" alt="Profile Summary Card" />
+  </a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Burkifa23&no-bg=true)
 
 
