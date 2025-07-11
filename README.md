@@ -32,7 +32,7 @@
 - My Student GitHub is [Programmer-233](https://github.com/Programmer-233)
 - I'm in my training arc.
 - Visit my [portfolio website](https://burkifa23.github.io/).
-- I work Mostly On Open Source Projects on this Account.
+- I work Mostly On Open-Source Projects
 
 [![committers.top badge](https://user-badge.committers.top/ghana/Burkifa23.svg)](https://user-badge.committers.top/ghana/Burkifa23) In Ghana
   
