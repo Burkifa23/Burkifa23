@@ -123,9 +123,9 @@ I plan to be a jack of trade.
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3576](https://github.com/Adventech/sabbath-school-lessons/pull/3576) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-2. 💪 Opened PR [#29](https://github.com/TinasheMzondiwa/cis-hymnals/pull/29) in [TinasheMzondiwa/cis-hymnals](https://github.com/TinasheMzondiwa/cis-hymnals)
-3. 💪 Opened PR [#28](https://github.com/TinasheMzondiwa/cis-hymnals/pull/28) in [TinasheMzondiwa/cis-hymnals](https://github.com/TinasheMzondiwa/cis-hymnals)
+1. 💪 Opened PR [#3584](https://github.com/Adventech/sabbath-school-lessons/pull/3584) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. 💪 Opened PR [#3576](https://github.com/Adventech/sabbath-school-lessons/pull/3576) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+3. 💪 Opened PR [#29](https://github.com/TinasheMzondiwa/cis-hymnals/pull/29) in [TinasheMzondiwa/cis-hymnals](https://github.com/TinasheMzondiwa/cis-hymnals)
 <!--END_SECTION:activity-->
 
 
