@@ -123,9 +123,9 @@ I plan to be a jack of trade.
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3614](https://github.com/Adventech/sabbath-school-lessons/pull/3614) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-2. 💪 Opened PR [#3607](https://github.com/Adventech/sabbath-school-lessons/pull/3607) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-3. 💪 Opened PR [#3598](https://github.com/Adventech/sabbath-school-lessons/pull/3598) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+1. ❗ Opened issue [#1](https://github.com/Burkifa23/Syntaxed/issues/1) in [Burkifa23/Syntaxed](https://github.com/Burkifa23/Syntaxed)
+2. 💪 Opened PR [#3614](https://github.com/Adventech/sabbath-school-lessons/pull/3614) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+3. 💪 Opened PR [#3607](https://github.com/Adventech/sabbath-school-lessons/pull/3607) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
 <!--END_SECTION:activity-->
 
 
