@@ -39,7 +39,7 @@
 [![Burkifa23's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=burkifa23.github.io&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/burkifa23.github.io)
 
 [![Burkifa23's Network](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=list-all-followers-and-following&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/list-all-followers-and-following)
-[![Burkifa23 Syntaxed](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=syntaxed&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/Syntaxed)
+
 
 
 
@@ -57,7 +57,7 @@ I started with:
 <img src="https://raw.githubusercontent.com/burkifa23/burkifa23/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-        <h1>Languages I use:</h1>
+        <h1>Interesting Languages I'm learning and using:</h1>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="92" width="92"/>                    
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="92" width="92"/>
@@ -78,8 +78,15 @@ I started with:
     </div>
     <br>
 
+
+# I plan to be a jack of all trades.
+
 _“A jack of all trades is a master of none, but oftentimes better than a master of one.”_ - William Shakespeare.
-I plan to be a jack of trade.
+
+### This is how I'm achieving it.
+
+[![Burkifa23 Syntaxed](https://github-readme-stats.vercel.app/api/pin/?username=Burkifa23&repo=syntaxed&show_icons=true&bg_color=00000000)](https://github.com/Burkifa23/Syntaxed)
+
 
 # Contact me
 
