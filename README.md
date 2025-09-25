@@ -130,9 +130,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Burkifa23/Syntaxed/issues/1) in [Burkifa23/Syntaxed](https://github.com/Burkifa23/Syntaxed)
-2. 💪 Opened PR [#3614](https://github.com/Adventech/sabbath-school-lessons/pull/3614) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-3. 💪 Opened PR [#3607](https://github.com/Adventech/sabbath-school-lessons/pull/3607) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+1. 💪 Opened PR [#3641](https://github.com/Adventech/sabbath-school-lessons/pull/3641) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. ❗ Opened issue [#1](https://github.com/Burkifa23/Syntaxed/issues/1) in [Burkifa23/Syntaxed](https://github.com/Burkifa23/Syntaxed)
+3. 💪 Opened PR [#3614](https://github.com/Adventech/sabbath-school-lessons/pull/3614) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
 <!--END_SECTION:activity-->
 
 
