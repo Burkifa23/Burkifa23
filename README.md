@@ -130,9 +130,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3684](https://github.com/Adventech/sabbath-school-lessons/pull/3684) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-2. 💪 Opened PR [#3668](https://github.com/Adventech/sabbath-school-lessons/pull/3668) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-3. 💪 Opened PR [#3641](https://github.com/Adventech/sabbath-school-lessons/pull/3641) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+1. 💪 Opened PR [#3695](https://github.com/Adventech/sabbath-school-lessons/pull/3695) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. 💪 Opened PR [#3684](https://github.com/Adventech/sabbath-school-lessons/pull/3684) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+3. 💪 Opened PR [#3668](https://github.com/Adventech/sabbath-school-lessons/pull/3668) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
 <!--END_SECTION:activity-->
 
 
