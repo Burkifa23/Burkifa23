@@ -130,9 +130,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [danielbyiringiro/projector](https://github.com/danielbyiringiro/projector)
-2. 💪 Opened PR [#3758](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-3. 💪 Opened PR [#3750](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+1. 💪 Opened PR [#3765](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. 💪 Opened PR [#1](undefined) in [danielbyiringiro/projector](https://github.com/danielbyiringiro/projector)
+3. 💪 Opened PR [#3758](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
 <!--END_SECTION:activity-->
 
 
