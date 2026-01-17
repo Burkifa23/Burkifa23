@@ -130,9 +130,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3843](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-2. ❌ Merged PR [#39](undefined) in [TinasheMzondiwa/cis-hymnals](https://github.com/TinasheMzondiwa/cis-hymnals)
-3. 🗣 Commented on [#39](https://github.com/TinasheMzondiwa/cis-hymnals/pull/39#issuecomment-3744807383) in [TinasheMzondiwa/cis-hymnals](https://github.com/TinasheMzondiwa/cis-hymnals)
+1. ❌ Merged PR [#3843](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. 💪 Opened PR [#3843](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+3. ❌ Merged PR [#39](undefined) in [TinasheMzondiwa/cis-hymnals](https://github.com/TinasheMzondiwa/cis-hymnals)
 <!--END_SECTION:activity-->
 
 
