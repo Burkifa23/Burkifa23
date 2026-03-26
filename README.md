@@ -130,9 +130,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [hubertit/ndabaga-impact](https://github.com/hubertit/ndabaga-impact)
-2. ❌ Merged PR [#3926](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-3. 💪 Opened PR [#3926](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+1. ❌ Merged PR [#1](undefined) in [Burkifa23/ashesi-igem-wiki](https://github.com/Burkifa23/ashesi-igem-wiki)
+2. 💪 Opened PR [#1](undefined) in [Burkifa23/ashesi-igem-wiki](https://github.com/Burkifa23/ashesi-igem-wiki)
+3. 💪 Opened PR [#1](undefined) in [hubertit/ndabaga-impact](https://github.com/hubertit/ndabaga-impact)
 <!--END_SECTION:activity-->
 
 
