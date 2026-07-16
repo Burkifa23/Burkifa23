@@ -13,7 +13,7 @@
     </a>
 </div>
 
-# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋🏽 I’m Frank from Rwanda. AKA Programmer-233 
+# <img src="https://github.com/burkifa23.png" alt="burkifa23" height="32" /> Hey there 👋🏽 I’m Frank from Rwanda. 
               
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,8 +28,7 @@
 </a>
 </p>
 
-- 🌱 I’m studying for a BSc in Computer Science in Ghana. 
-- My Student GitHub is [Programmer-233](https://github.com/Programmer-233)
+- 🌱 I’m studying for a BSc in Computer Science in Ghana.
 - I'm in my training arc.
 - Visit my [portfolio website](https://burkifa23.github.io/).
 - I work Mostly On Open-Source Projects
