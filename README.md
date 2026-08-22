@@ -129,9 +129,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4176](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-2. ❌ Merged PR [#1](undefined) in [Rydwan1746/linear_algebra_final_project](https://github.com/Rydwan1746/linear_algebra_final_project)
-3. 💪 Opened PR [#1](undefined) in [Rydwan1746/linear_algebra_final_project](https://github.com/Rydwan1746/linear_algebra_final_project)
+1. ❌ Merged PR [#4176](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. 💪 Opened PR [#4176](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+3. ❌ Merged PR [#1](undefined) in [Rydwan1746/linear_algebra_final_project](https://github.com/Rydwan1746/linear_algebra_final_project)
 <!--END_SECTION:activity-->
 
 
