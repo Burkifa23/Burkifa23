@@ -129,9 +129,9 @@ _“A jack of all trades is a master of none, but oftentimes better than a maste
 
 ## 💾 Github Activities
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4291](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-2. 💪 Opened PR [#4291](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
-3. ❌ Merged PR [#2](undefined) in [Burkifa23/abc](https://github.com/Burkifa23/abc)
+1. 💪 Opened PR [#4303](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+2. ❌ Merged PR [#4291](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
+3. 💪 Opened PR [#4291](undefined) in [Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)
 <!--END_SECTION:activity-->
 
 
